@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Cryptocurrency</string>
+    <string name="stellar">Stellar</string>
+    <string name="ethereum">Ethereum</string>
+    <string name="bitcoin">Bitcoin</string>
+    <string name="ripple">Ripple</string>
+    <string name="stable_coin">Stable coin</string>
+    <string name="todo">TODO</string>
+
+
+    <string name="next">LANJUT</string>
+    <string name="skip">LEWATI</string>
+    <string name="start">MULAI</string>
+
+    <string name="slide_1_title">BITCOIN</string>
+    <string name="slide_1_desc">$7000+</string>
+
+    <string name="slide_2_title">ETHEREUM</string>
+    <string name="slide_2_desc">$150+</string>
+
+    <string name="slide_3_title">RIPPLE</string>
+    <string name="slide_3_desc">$0.2+</string>
+
+</resources>
