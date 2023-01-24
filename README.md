@@ -7,3 +7,7 @@
 ![Proff3](https://user-images.githubusercontent.com/55582744/214180854-01cc4cc9-b958-47c9-a9a4-5a6468efd83b.PNG)
 ![proff2](https://user-images.githubusercontent.com/55582744/214180857-a6bd73f7-d5ee-41d2-8bc0-cd94b0c96162.PNG)
 ![Proff1](https://user-images.githubusercontent.com/55582744/214180859-14747d6b-e75a-4564-9ec8-5d9a593f0911.PNG)
+
+
+![Block](https://user-images.githubusercontent.com/55582744/214191097-68d06c47-43d7-4dd4-9846-38e62bb32d5c.PNG)
+![Clearcok](https://user-images.githubusercontent.com/55582744/214191099-aecd45a5-7648-4232-bc4c-8b623ce60f80.PNG)
